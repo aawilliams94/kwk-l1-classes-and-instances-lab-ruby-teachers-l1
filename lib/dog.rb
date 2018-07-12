@@ -2,7 +2,8 @@
 
 class Dog
   
-  def initialize = 
+  def initialize(dog)
+    
   fido = Dog.new
   snoopy = Dog.new
   lassie = Dog.new
