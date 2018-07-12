@@ -2,12 +2,6 @@
 
 class Dog
   
-  def fido=(fido)
-    @fido = fido
-  end
-  
-  def fido
-    @fido
-  end
+  fido.new = Dog
 
 end
