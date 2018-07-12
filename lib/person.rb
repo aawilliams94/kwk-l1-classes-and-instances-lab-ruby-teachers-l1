@@ -3,6 +3,5 @@
 class Person
 end
 
-  fido = Dog.new(fido)
-  snoopy = Dog.new(snoopy)
-  lassie = Dog.new(lassie)
+adele_goldberg = Person.new
+alan_kay = Person.new
